@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Spacefox123
 - 👀 I’m interested in python and web development in general! 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me: zanrode@gmail.com
 
 <!---
