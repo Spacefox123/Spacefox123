@@ -1,4 +1,4 @@
-### Hi there, I'm Žan - aka [Spacefox123] 👋
+### Hi there, I'm Žan - aka **Spacefox123** 👋
 
 ## I'm a dad, artist and a web developer in training!
 
