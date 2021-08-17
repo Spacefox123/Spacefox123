@@ -41,16 +41,6 @@
 <br />
 <br />
 
-### :zap: Recent Activity
-
-<!-- START_SECTION:activity -->
-
-<!--END_SECTION:activity-->
-
----
-
-<br />
-<br />
 [facebook]: https://www.facebook.com/zan.rode/
 [instagram]: https://www.instagram.com/zanrcomedy/
 [linkedin]: https://www.linkedin.com/in/%C5%BEan-rode-09053318a/
