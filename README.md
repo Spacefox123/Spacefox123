@@ -1,9 +1,6 @@
 ### Hi there, I'm Žan - aka **Spacefox123** 👋
 
-## I'm a dad, artist and a web developer in training!
-
-- 🌱 I’m currently learning React
-- 👯 If you want to colab, don't hesitate to hit me up!
+## I'm a dad, artist and a hobby programmer!
 - ⚡ About me: My hobbies also include Brazilian jiu-jitsu, digital painting and illustration
 
 ### Connect with me:
